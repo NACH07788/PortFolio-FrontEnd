@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Inicio"
+    "\\Inicio\\CSS",
+    "\\Inicio\\JS",
+    "\\Inicio\\MultiMedia",
+    "\\Inicio\\MultiMedia\\Iconos"
   ],
-  "SelectedNode": "\\Inicio\\th.png",
   "PreviewInSolutionExplorer": false
 }

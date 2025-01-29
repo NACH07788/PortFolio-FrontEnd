@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Curso Y0pr0gr4m0\\PortFolioFrontEnd\\",
+  "WorkspaceRootPath": "D:\\documentos\\Cursos\\Curso Y0pr0gr4m0 (No lo termine xd)\\PortFolioFrontEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Curso Y0pr0gr4m0\\PortFolioFrontEnd\\Inicio\\Inicio.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Inicio\\Inicio.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\documentos\\Cursos\\Curso Y0pr0gr4m0 (No lo termine xd)\\PortFolioFrontEnd\\index.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Curso Y0pr0gr4m0\\PortFolioFrontEnd\\Inicio\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Inicio\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Curso Y0pr0gr4m0\\PortFolioFrontEnd\\Inicio\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Inicio\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\documentos\\Cursos\\Curso Y0pr0gr4m0 (No lo termine xd)\\PortFolioFrontEnd\\Inicio\\CSS\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Inicio\\CSS\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +18,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\documentos\\Cursos\\Curso Y0pr0gr4m0 (No lo termine xd)\\PortFolioFrontEnd\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "D:\\documentos\\Cursos\\Curso Y0pr0gr4m0 (No lo termine xd)\\PortFolioFrontEnd\\index.html",
+              "RelativeToolTip": "index.html",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-08T14:44:17.593Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -34,45 +44,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Inicio.html",
-              "DocumentMoniker": "D:\\Curso Y0pr0gr4m0\\PortFolioFrontEnd\\Inicio\\Inicio.html",
-              "RelativeDocumentMoniker": "Inicio\\Inicio.html",
-              "ToolTip": "D:\\Curso Y0pr0gr4m0\\PortFolioFrontEnd\\Inicio\\Inicio.html",
-              "RelativeToolTip": "Inicio\\Inicio.html",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-08T14:44:17.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "styles.css",
-              "DocumentMoniker": "D:\\Curso Y0pr0gr4m0\\PortFolioFrontEnd\\Inicio\\styles.css",
-              "RelativeDocumentMoniker": "Inicio\\styles.css",
-              "ToolTip": "D:\\Curso Y0pr0gr4m0\\PortFolioFrontEnd\\Inicio\\styles.css",
-              "RelativeToolTip": "Inicio\\styles.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "D:\\documentos\\Cursos\\Curso Y0pr0gr4m0 (No lo termine xd)\\PortFolioFrontEnd\\Inicio\\CSS\\styles.css",
+              "RelativeDocumentMoniker": "Inicio\\CSS\\styles.css",
+              "ToolTip": "D:\\documentos\\Cursos\\Curso Y0pr0gr4m0 (No lo termine xd)\\PortFolioFrontEnd\\Inicio\\CSS\\styles.css",
+              "RelativeToolTip": "Inicio\\CSS\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-06-20T03:39:44.563Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "about.html",
-              "DocumentMoniker": "D:\\Curso Y0pr0gr4m0\\PortFolioFrontEnd\\Inicio\\about.html",
-              "RelativeDocumentMoniker": "Inicio\\about.html",
-              "ToolTip": "D:\\Curso Y0pr0gr4m0\\PortFolioFrontEnd\\Inicio\\about.html",
-              "RelativeToolTip": "Inicio\\about.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-06-04T16:36:21.003Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
